@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\sher6\\Desktop\\FAD\\nyc_crash_dashboard",
+        "app_url": "https://oeqqy6-ali-sher.shinyapps.io/nyc-crash-dashboard/",
+        "app_id": "16455626",
+        "app_guid": null,
+        "title": "nyc-crash-dashboard",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

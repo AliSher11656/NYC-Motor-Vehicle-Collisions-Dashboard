@@ -1,0 +1,8 @@
+shiny
+shinywidgets
+anywidget
+ipywidgets<8
+plotly==5.24.1
+pandas
+numpy
+requests
