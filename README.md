@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NYC Motor Vehicle Collisions – Shiny for Python Dashboard
 
 **Includes (advanced):**
@@ -21,3 +22,6 @@ shiny run --reload app.py
 - Timezone: America/New_York
 - If your selected date range contains >10k records, the API returns the latest 10k (ordered by crash_date).
 - Borough dropdown is populated after the first data fetch.
+=======
+# NYC-Motor-Vehicle-Collisions-Dashboard
+>>>>>>> f0b5b7a4560bbba01bee34e020312800ff550e97
